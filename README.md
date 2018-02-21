@@ -30,7 +30,7 @@ Créer un dossier `html-css`. Dans ce dossier créer un fichier `index.html`, `s
 - Utilisez la font Roboto
 - Utilisez flexbox pour positionner vos éléments
 
-![html-css](https://github.com/boris-pozzo/Eval-simplonMg/blob/master/html-css.png);
+![html-css](https://github.com/boris-pozzo/Eval-simplonMg/blob/master/html-css.png)
 
 # Javascript
 
@@ -47,4 +47,37 @@ Si l'élément `vuejs` est présent dans le tableau, afficher son index
 - `let foo = [76, 987, 43, 1097]`
 Ajouter l'élément `12`dans le tableau
 
-- Afficher la date d'aujourd'hui `Jeudi 22 février 2018`  
+- Afficher la date d'aujourd'hui `Jeudi 22 février 2018`
+
+# React
+
+Faire un compteur.
+La valeur initiale du compteur est `1`:
+- Une fois que la valeur du compteur est égal ou supérieur à `10`, afficher `WIN``
+- Il n'est pas possible de décrémenter lorsque la valeur est égal à `0`.
+
+# Php
+
+### Exo 1
+Créer deux variables `techno`, `dev`. 
+La variable `dev` peut prendre comme valeur :
+- front
+- back
+
+La variable `techno` a comme valeur: `["Javascript", "Php", "Html", "CSS", "Ruby"]
+
+En fonction de la `techno` et de `dev` afficher la phrase correspondante :
+
+Vous êtes un développeur FRONT et vous maitrisez Javascript, Html, CSS
+Vous êtes un développeur BACK et vous connaissez Php, Ruby, Javascript
+Vous êtes une développeur  FRONT et vous maitrisez Javascript, Html, CSS
+Vous êtes une développeur  BACK et vous connaissez Php, Ruby, Javascript
+
+### Exo 2
+
+Faire une page index.php. Tester sur cette page que le paramètre `cat` existe et si c'est le cas l'afficher sinon le signaler : `index.php?cat=music&instrument=guitare`
+
+### Exo 3
+
+Faire un tableau avec comme valeur tous les mois de l'année (janvier, février, etc...). Afficher l'index des mois
+

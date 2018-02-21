@@ -27,5 +27,24 @@ Créer un dossier `git-github`. Dans ce dossier créer un fichier `reponses.md` 
 
 Créer un dossier `html-css`. Dans ce dossier créer un fichier `index.html`, `style.css` et reproduire la maquette ci-dessous:
 
+- Utilisez la font Roboto
+- Utilisez flexbox pour positionner vos éléments
+
 ![html-css](https://github.com/boris-pozzo/Eval-simplonMg/blob/master/html-css.png);
 
+# Javascript
+
+Créer un dossier `javascript`. Dans ce dossier créer un fichier `index.html`, `index.js` et reproduire la maquette ci-dessous:
+
+
+- `let arr = [["Javascript", "Ruby"], ["Php", "Python"]]` => `["Javascript", "Php", "Python", "Ruby"]`
+
+- `let obj = {guadeloupe: 971, martinique: 972, guyane: 973, reunion: 974 }` => `[971, 972, 973, 974]`
+
+- `let findElement = ["react", "angular", "vuejs"]`
+Si l'élément `vuejs` est présent dans le tableau, afficher son index
+
+- `let foo = [76, 987, 43, 1097]`
+Ajouter l'élément `12`dans le tableau
+
+- Afficher la date d'aujourd'hui `Jeudi 22 février 2018`  

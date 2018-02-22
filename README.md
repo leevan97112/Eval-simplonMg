@@ -63,6 +63,22 @@ Vous devez le transformer pour retourner ceci :
 Vous devez le transformer pour retourner ceci :
 `let obj = { "yo": 9, "foo": 1, "bar": 4}`
 
+# React
+
+Créer un projet `counter` avec `create-react-app` et faire les exos dans le fichier `App.js`.
+
+### Exo 1 
+Quel est l'élément qui permet de passer de la data entre les components ?
+Vous pouvez afficher la réponse dans la console du navigateur.
+
+### Exo 2
+Créer un compteur, avec une valeur de départ initialisée à `1`.
+
+
+Contraintes:
+- Si la valeur du compteur est égale et/ ou supérieur à `10` afficher `WIN` à la place de la valeur du compteur.
+- La valeur du compteur ne peut pas être inférieure à `0`.
+
 # Php
 
 Créer un dossier `php`. Dans ce dossier créer trois fichiers `index.php` et `form.php` et `style.css` et faire ces programmes :

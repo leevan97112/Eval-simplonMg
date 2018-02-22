@@ -81,7 +81,7 @@ Contraintes:
 
 # Php
 
-Créer un dossier `php`. Dans ce dossier créer trois fichiers `index.php` et `form.php` et `style.css` et faire ces programmes :
+Créer un dossier `php`. Dans ce dossier créer trois fichiers `index.php`, `form.php` et `style.css` et faire ces programmes :
 
 L'`index.php`vous permettra de faire les programmes ci-dessous et le `form.php`vous permettra de faire le formulaire.
 
@@ -106,7 +106,7 @@ Utiliser le tableau de l'exo 2 et lister l'index des éléments du tableau. Puis
 
 ### Exo 4
 
-Créer  un formulaire pour envoyer (methode Post)  le login et le pass d'un utilisateur, receptioner et afficher les parametre User
+Créer  un formulaire pour envoyer (methode Post)  le login et le pass d'un utilisateur, receptioner et afficher les paramètres User
 
 # SQL
 

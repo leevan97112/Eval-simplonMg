@@ -1,3 +1,6 @@
+
+C'est que du bonheur...
+
 # Terminal
 
 Créer un dossier `terminal`. Dans ce dossier créer un fichier `reponses.md` et y ajouter les réponses aux questions suivantes:
@@ -26,6 +29,8 @@ Créer un dossier `html-css`. Dans ce dossier créer deux fichiers `index.html` 
 Contraintes:
 - Utiliser la police Roboto
 - Le site doit être responsive (utiliser flexbox)
+
+![html-css](https://github.com/boris-pozzo/Eval-simplonMg/blob/master/html-css.png)
 
 # Javascript
 
@@ -89,11 +94,12 @@ Créer  un formulaire pour envoyer (methode Post)  le login et le pass d'un util
 
 Sur la Data Base Video_Db (Affichage du Mcd,obligatoire,en  pièce jointe).
 
+![tvideo](https://github.com/boris-pozzo/Eval-simplonMg/blob/master/Tvideo.jpg)
+
 ### Requête n 01
 
 Afficher le nombre de Vidéos contenu dans la Table video, Utilise pour l'affichage un allias : NbreVideo :
 
 ### Requete Num 02
-
 
 Afficher les Titre des vidéos ainsi que le libelle du thème pour les vidéos ayant pour numéro de  thème le 3, ordonnées les Titre des videos alphabétiquement

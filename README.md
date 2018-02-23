@@ -63,25 +63,9 @@ Vous devez le transformer pour retourner ceci :
 Vous devez le transformer pour retourner ceci :
 `let obj = { "yo": 9, "foo": 1, "bar": 4}`
 
-# React
-
-Créer un projet `counter` avec `create-react-app` et faire les exos dans le fichier `App.js`.
-
-### Exo 1 
-Quel est l'élément qui permet de passer de la data entre les components ?
-Vous pouvez afficher la réponse dans la console du navigateur.
-
-### Exo 2
-Créer un compteur, avec une valeur de départ initialisée à `1`.
-
-
-Contraintes:
-- Si la valeur du compteur est égale et/ ou supérieur à `10` afficher `WIN` à la place de la valeur du compteur.
-- La valeur du compteur ne peut pas être inférieure à `0`.
-
 # Php
 
-Créer un dossier `php`. Dans ce dossier créer trois fichiers `index.php`, `form.php` et `style.css` et faire ces programmes :
+Créer un dossier `php`. Dans ce dossier créer trois fichiers `index.php` et `form.php` et `style.css` et faire ces programmes :
 
 L'`index.php`vous permettra de faire les programmes ci-dessous et le `form.php`vous permettra de faire le formulaire.
 
@@ -106,13 +90,13 @@ Utiliser le tableau de l'exo 2 et lister l'index des éléments du tableau. Puis
 
 ### Exo 4
 
-Créer  un formulaire pour envoyer (methode Post)  le login et le pass d'un utilisateur, receptioner et afficher les paramètres User
+Créer  un formulaire pour envoyer (methode Post)  le login et le pass d'un utilisateur, receptioner et afficher les parametre User
 
 # SQL
 
 Sur la Data Base Video_Db (Affichage du Mcd,obligatoire,en  pièce jointe).
 
-![tvideo](https://github.com/boris-pozzo/Eval-simplonMg/blob/master/Tvideo-2.jpg)
+![tvideo](https://github.com/boris-pozzo/Eval-simplonMg/blob/master/Tvideo.jpg)
 
 ### Requête n 01
 
